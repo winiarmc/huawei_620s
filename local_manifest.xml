@@ -5,7 +5,7 @@
     <project path="device/huawei/g620s" name="G620s-Development/android_device_huawei_g620s" remote="github" revision="cm-11.0" />
 
     <!--KERNEL G620S-->
-    <project path="kernel/huawei/g620s" name="cG620s-Development/android_kernel_huawei_g620s" remote="github" revision="cm-11.0" />
+    <project path="kernel/huawei/g620s" name="G620s-Development/android_kernel_huawei_g620s" remote="github" revision="cm-11.0" />
 
     <!--VENDOR G620S-->
     <project path="vendor/huawei/g620s" name="G620s-Development/android_vendor_huawei_g620s" remote="github" revision="cm-11.0" />
